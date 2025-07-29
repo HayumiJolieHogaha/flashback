@@ -1,8 +1,9 @@
 body{
-   background-color: antiquewhite;
-
+   background-color: black;
+   color: white;
 }
 
-footer {background-color: black;
-
+footer {
+   background-color: black;
+   color: white;  
 }
